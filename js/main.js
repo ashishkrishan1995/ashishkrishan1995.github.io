@@ -1,13 +1,3 @@
-/*
-
-[Master JS File (Unminified) : MAIN.JS]
-–––––––––––––––––––––––––––––––––––––––––––––––––– 
-
- * Dyon - Simple vCard Resume Template from Themesit
- * Author: Themesit, http://www.themesit.com
- * Copyright (C) 2017 Themesit
- * This is a premium product. For licensing queries please contact appshowy@gmail.com
- */
 
 (function() {
     "use strict"; // Start of use strict
